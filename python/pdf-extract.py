@@ -38,22 +38,22 @@ header_chuyen = {
 }
 
 # disable print error for faster run
-def print(*props):
-    pass
+# def print(*props):
+#     pass
 
-with pdfplumber.open("DKP-HK2-2022-2023.pdf") as pdf:
+with pdfplumber.open("TKB_MonChung_Upload.pdf") as pdf:
 
     header = pdf.pages[0].extract_table()[0]
     # print(header)
 
     # Header select by type of pdf
-    header_select = header_chuyen
+    header_select = header_chung
 
     # map key header with header of file
     map = {}
     map_day = {}
     map_th = {}
-
+    count = 0
 
     try:
         # Get index of course in file header
@@ -77,7 +77,7 @@ with pdfplumber.open("DKP-HK2-2022-2023.pdf") as pdf:
 
     try:
         # Get index of day in file header
-        for key, value in header_day_no_valid_chuyen.items():
+        for key, value in header_day_no_valid_chung.items():
             map_th[key] = header.index(value)
             
     except Exception as e:
@@ -85,15 +85,17 @@ with pdfplumber.open("DKP-HK2-2022-2023.pdf") as pdf:
         exit()
 
         
+
+
     schedule = []
-
-
     for page_num, page in enumerate(pdf.pages):
         days = []
         course = {}
 
-        for row_num, row in enumerate(page.extract_table()):
+        tables = page.extract_table()
+        for row_num, row in enumerate(tables):
             day = {}
+            added = False
             try:
                 # Check valid line
                 for key, value in map_day.items():
@@ -127,17 +129,17 @@ with pdfplumber.open("DKP-HK2-2022-2023.pdf") as pdf:
                 course = row_info
                 course['days'] = []
             
-            if row_info['nmh'] != None and (row_info['mmh'] != course['mmh'] or row_info['mmh'] != course['mmh']):
+            if row_info['nmh'] != None and (row_info['nmh'] != course['nmh'] or row_info['mmh'] != course['mmh']):
                 schedule.append(course)
+                added = True
                 course = row_info
                 course['days'] = []
-            
-                
-                
-                
 
             course['days'].append(day)
-                
+
+            # Fix last row not add in pdf (chung type)
+            if row_num == len(tables) - 1 and not added:
+                schedule.append(course)
             
 
 
@@ -152,4 +154,5 @@ with pdfplumber.open("DKP-HK2-2022-2023.pdf") as pdf:
         # print(schedule)
                 
         # break
-        json.dump(schedule, open('schedule.json', 'w'), ensure_ascii=False)
+    json.dump(schedule, open(f'schedule.json', 'w', encoding="utf-8"), ensure_ascii=False)
+    print("Total row added", count)
