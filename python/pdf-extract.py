@@ -1,5 +1,8 @@
 import pdfplumber
 import json
+from enum import Enum
+import sys
+import re
 
 header_chung = {
     'gv': 'Họ và tên',
@@ -37,17 +40,85 @@ header_chuyen = {
     'so_luong': 'Sỉ số',
 }
 
+
+
 # disable print error for faster run
 # def print(*props):
 #     pass
 
-with pdfplumber.open("TKB_MonChung_Upload.pdf") as pdf:
+args = sys.argv
+
+try:
+    pdf_path = args[1]
+    pdf_type = args[2]
+    year_period = int(args[3])
+    year_from = int(args[4])
+    year_to = int(args[5])
+    if (year_from > year_to):
+        raise Exception('Year from must less than year to')
+    if (year_period < 1 or year_period > 3):
+        raise Exception('Year period must be 1, 2 or 3')
+except Exception as e:
+    print('Argument invalid:', e)
+    exit()
+
+
+print(pdf_path, pdf_type)
+
+if (pdf_type != 'chung' and pdf_type != 'chuyen'):
+    print('Argument pdf_type invalid')
+    exit()
+
+if (pdf_type == 'chuyen'):
+    try:
+        chuyen_nganh = args[6]
+    except Exception as e:
+        print('Argument chuyen_nganh invalid:', e)
+        exit()
+
+# if pdf_type == 'chung' or pdf_type == 'chuyen':
+#     exit()
+
+
+with pdfplumber.open(pdf_path) as pdf:
 
     header = pdf.pages[0].extract_table()[0]
+
+    # # Get year and period of scheduler
+    # for page in pdf.pages:
+    #     print(page.lines)
+    #     exit()
+    #     for line in page.lines:
+
+    #         # if line.get
+
+    #         result = re.findall(r'(?<=Học kỳ )\d', text)
+    #         try:
+    #             period = int(result[0])
+                
+    #         except Exception as e:
+    #             # print('Get period error', e)
+    #             continue
+
+    #         result = re.findall(r'(?<=Năm học )\d{4}', text)
+
+    # if not period:
+    #     print('Period and year not found')
+    #     exit()
+    
+    # exit()
+            
     # print(header)
 
     # Header select by type of pdf
-    header_select = header_chung
+    header_select = { 
+        'chung': header_chung,
+        'chuyen': header_chuyen
+    }
+    header_day_no_valid = {
+        'chung': header_day_no_valid_chung,
+        'chuyen': header_day_no_valid_chuyen
+    }
 
     # map key header with header of file
     map = {}
@@ -57,12 +128,12 @@ with pdfplumber.open("TKB_MonChung_Upload.pdf") as pdf:
 
     try:
         # Get index of course in file header
-        for key, value in header_select.items():
+        for key, value in header_select[pdf_type].items():
             map[key] = header.index(value)
         # print(map)
         
     except Exception as e:
-        print('Get course header error', e)
+        print('Get course header error:', e)
         exit()
 
 
@@ -72,16 +143,16 @@ with pdfplumber.open("TKB_MonChung_Upload.pdf") as pdf:
             map_day[key] = header.index(value)
             
     except Exception as e:
-        print('Get day header error', e)
+        print('Get day header error:', e)
         exit()
 
     try:
         # Get index of day in file header
-        for key, value in header_day_no_valid_chung.items():
+        for key, value in header_day_no_valid[pdf_type].items():
             map_th[key] = header.index(value)
             
     except Exception as e:
-        print('Get day no valid header error', e)
+        print('Get day no valid header error:', e)
         exit()
 
         
@@ -100,7 +171,7 @@ with pdfplumber.open("TKB_MonChung_Upload.pdf") as pdf:
                 # Check valid line
                 for key, value in map_day.items():
                     if row[value] == None:
-                        raise Exception('Invalid row')
+                        raise Exception('Invalid row:')
                     day[key] = int(row[value])
                 
                 for key, value in map_th.items():
@@ -110,7 +181,7 @@ with pdfplumber.open("TKB_MonChung_Upload.pdf") as pdf:
 
 
             except Exception as e:
-                print(f'Get day of row ${row_num} in ${page_num} error', e)
+                print(f'Get day of row ${row_num} in ${page_num} error:', e)
                 continue
 
             
@@ -120,7 +191,7 @@ with pdfplumber.open("TKB_MonChung_Upload.pdf") as pdf:
                     row_info[key] = row[value]
                 
             except Exception as e:
-                print(f'Get course of row ${row_num} in ${page_num} error', e)
+                print(f'Get course of row ${row_num} in ${page_num} error:', e)
                 continue
 
 
@@ -154,5 +225,12 @@ with pdfplumber.open("TKB_MonChung_Upload.pdf") as pdf:
         # print(schedule)
                 
         # break
-    json.dump(schedule, open(f'schedule.json', 'w', encoding="utf-8"), ensure_ascii=False)
+    if (pdf_type == 'chuyen'):
+        pdf_type = chuyen_nganh
+    json.dump({
+        'scheduler': schedule,
+        # 'year' : {
+            
+        # }
+        }, open(f'schedule_{pdf_type}_{year_period}_{year_from}_{year_to}.json', 'w', encoding="utf-8"), ensure_ascii=False)
     print("Total row added", count)
