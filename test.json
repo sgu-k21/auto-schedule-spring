@@ -1,0 +1,1175 @@
+[
+  {
+    "courses": [
+      {
+        "courses": [],
+        "id": 764,
+        "courseId": "841047",
+        "courseName": "Công nghệ phần mềm",
+        "courseGroup": 1,
+        "practiceGroup": 1,
+        "amount": 90,
+        "teacherName": "Nguyễn Thành Huy",
+        "createdAt": "2024-07-28T12:19:32.642969Z",
+        "courseDays": [
+          {
+            "id": 1509,
+            "dayOfWeek": 7,
+            "periodStart": 4,
+            "periodTotal": 2,
+            "practiceGroup": 1,
+            "room": "C.E403",
+            "totalWeek": "123456789012345----",
+            "createdAt": "12:28:41Z"
+          }
+        ]
+      }
+    ],
+    "id": 753,
+    "courseId": "841047",
+    "courseName": "Công nghệ phần mềm",
+    "courseGroup": 1,
+    "practiceGroup": null,
+    "amount": 90,
+    "teacherName": "Nguyễn Thành Huy",
+    "createdAt": "2024-07-28T12:01:12.634005Z",
+    "courseDays": [
+      {
+        "id": 1508,
+        "dayOfWeek": 7,
+        "periodStart": 1,
+        "periodTotal": 3,
+        "practiceGroup": null,
+        "room": "C.C107",
+        "totalWeek": "123456789012345----",
+        "createdAt": "12:28:41Z"
+      }
+    ]
+  },
+  {
+    "courses": [
+      {
+        "courses": [],
+        "id": 766,
+        "courseId": "841048",
+        "courseName": "P/tích thiết kế hệ thống thông tin",
+        "courseGroup": 1,
+        "practiceGroup": 1,
+        "amount": 40,
+        "teacherName": "Lê Hùng Thanh Nhựt",
+        "createdAt": "2024-07-28T12:19:34.843281Z",
+        "courseDays": [
+          {
+            "id": 1511,
+            "dayOfWeek": 3,
+            "periodStart": 9,
+            "periodTotal": 2,
+            "practiceGroup": 1,
+            "room": "C.E601",
+            "totalWeek": "123456789012345----",
+            "createdAt": "12:28:42Z"
+          }
+        ]
+      }
+    ],
+    "id": 765,
+    "courseId": "841048",
+    "courseName": "P/tích thiết kế hệ thống thông tin",
+    "courseGroup": 1,
+    "practiceGroup": null,
+    "amount": 40,
+    "teacherName": "Lê Hùng Thanh Nhựt",
+    "createdAt": "2024-07-28T12:19:33.897998Z",
+    "courseDays": [
+      {
+        "id": 1510,
+        "dayOfWeek": 3,
+        "periodStart": 6,
+        "periodTotal": 3,
+        "practiceGroup": null,
+        "room": "C.E601",
+        "totalWeek": "123456789012345----",
+        "createdAt": "12:28:42Z"
+      }
+    ]
+  },
+  {
+    "courses": [
+      {
+        "courses": [],
+        "id": 768,
+        "courseId": "841048",
+        "courseName": "P/tích thiết kế hệ thống thông tin",
+        "courseGroup": 2,
+        "practiceGroup": 1,
+        "amount": 40,
+        "teacherName": "Huỳnh Nguyễn Khắc Huy",
+        "createdAt": "2024-07-28T12:28:43.007203Z",
+        "courseDays": [
+          {
+            "id": 1513,
+            "dayOfWeek": 2,
+            "periodStart": 9,
+            "periodTotal": 2,
+            "practiceGroup": 1,
+            "room": "C.A105",
+            "totalWeek": "123456789012345----",
+            "createdAt": "12:28:43Z"
+          }
+        ]
+      }
+    ],
+    "id": 767,
+    "courseId": "841048",
+    "courseName": "P/tích thiết kế hệ thống thông tin",
+    "courseGroup": 2,
+    "practiceGroup": null,
+    "amount": 40,
+    "teacherName": "Huỳnh Nguyễn Khắc Huy",
+    "createdAt": "2024-07-28T12:19:36.398097Z",
+    "courseDays": [
+      {
+        "id": 1512,
+        "dayOfWeek": 2,
+        "periodStart": 6,
+        "periodTotal": 3,
+        "practiceGroup": null,
+        "room": "C.A316",
+        "totalWeek": "123456789012345----",
+        "createdAt": "12:28:42Z"
+      }
+    ]
+  },
+  {
+    "courses": [
+      {
+        "courses": [],
+        "id": 770,
+        "courseId": "841048",
+        "courseName": "P/tích thiết kế hệ thống thông tin",
+        "courseGroup": 3,
+        "practiceGroup": 1,
+        "amount": 40,
+        "teacherName": "Huỳnh Nguyễn Khắc Huy",
+        "createdAt": "2024-07-28T12:28:44.124438Z",
+        "courseDays": [
+          {
+            "id": 1515,
+            "dayOfWeek": 4,
+            "periodStart": 4,
+            "periodTotal": 2,
+            "practiceGroup": 1,
+            "room": "C.A106",
+            "totalWeek": "123456789012345----",
+            "createdAt": "12:28:44Z"
+          }
+        ]
+      }
+    ],
+    "id": 769,
+    "courseId": "841048",
+    "courseName": "P/tích thiết kế hệ thống thông tin",
+    "courseGroup": 3,
+    "practiceGroup": null,
+    "amount": 40,
+    "teacherName": "Huỳnh Nguyễn Khắc Huy",
+    "createdAt": "2024-07-28T12:28:43.508798Z",
+    "courseDays": [
+      {
+        "id": 1514,
+        "dayOfWeek": 4,
+        "periodStart": 1,
+        "periodTotal": 3,
+        "practiceGroup": null,
+        "room": "C.A316",
+        "totalWeek": "123456789012345----",
+        "createdAt": "12:28:43Z"
+      }
+    ]
+  },
+  {
+    "courses": [
+      {
+        "courses": [],
+        "id": 772,
+        "courseId": "841048",
+        "courseName": "P/tích thiết kế hệ thống thông tin",
+        "courseGroup": 4,
+        "practiceGroup": 1,
+        "amount": 40,
+        "teacherName": "Huỳnh Nguyễn Khắc Huy",
+        "createdAt": "2024-07-28T12:28:45.068221Z",
+        "courseDays": [
+          {
+            "id": 1517,
+            "dayOfWeek": 6,
+            "periodStart": 4,
+            "periodTotal": 2,
+            "practiceGroup": 1,
+            "room": "C.A106",
+            "totalWeek": "123456789012345----",
+            "createdAt": "12:28:45Z"
+          }
+        ]
+      }
+    ],
+    "id": 771,
+    "courseId": "841048",
+    "courseName": "P/tích thiết kế hệ thống thông tin",
+    "courseGroup": 4,
+    "practiceGroup": null,
+    "amount": 40,
+    "teacherName": "Huỳnh Nguyễn Khắc Huy",
+    "createdAt": "2024-07-28T12:28:44.633275Z",
+    "courseDays": [
+      {
+        "id": 1516,
+        "dayOfWeek": 6,
+        "periodStart": 1,
+        "periodTotal": 3,
+        "practiceGroup": null,
+        "room": "C.A307",
+        "totalWeek": "123456789012345----",
+        "createdAt": "12:28:44Z"
+      }
+    ]
+  },
+  {
+    "courses": [
+      {
+        "courses": [],
+        "id": 774,
+        "courseId": "841048",
+        "courseName": "P/tích thiết kế hệ thống thông tin",
+        "courseGroup": 5,
+        "practiceGroup": 1,
+        "amount": 40,
+        "teacherName": "Huỳnh Nguyễn Khắc Huy",
+        "createdAt": "2024-07-28T12:28:46.103807Z",
+        "courseDays": [
+          {
+            "id": 1519,
+            "dayOfWeek": 2,
+            "periodStart": 1,
+            "periodTotal": 2,
+            "practiceGroup": 1,
+            "room": "C.A106",
+            "totalWeek": "123456789012345----",
+            "createdAt": "12:28:46Z"
+          }
+        ]
+      }
+    ],
+    "id": 773,
+    "courseId": "841048",
+    "courseName": "P/tích thiết kế hệ thống thông tin",
+    "courseGroup": 5,
+    "practiceGroup": null,
+    "amount": 40,
+    "teacherName": "Huỳnh Nguyễn Khắc Huy",
+    "createdAt": "2024-07-28T12:28:45.559652Z",
+    "courseDays": [
+      {
+        "id": 1518,
+        "dayOfWeek": 2,
+        "periodStart": 3,
+        "periodTotal": 3,
+        "practiceGroup": null,
+        "room": "C.A314",
+        "totalWeek": "123456789012345----",
+        "createdAt": "12:28:45Z"
+      }
+    ]
+  },
+  {
+    "courses": [
+      {
+        "courses": [],
+        "id": 776,
+        "courseId": "841048",
+        "courseName": "P/tích thiết kế hệ thống thông tin",
+        "courseGroup": 6,
+        "practiceGroup": 1,
+        "amount": 40,
+        "teacherName": "Phan Nguyệt Minh",
+        "createdAt": "2024-07-28T12:28:47.420581Z",
+        "courseDays": [
+          {
+            "id": 1521,
+            "dayOfWeek": 2,
+            "periodStart": 6,
+            "periodTotal": 2,
+            "practiceGroup": 1,
+            "room": "C.A106",
+            "totalWeek": "123456789012345----",
+            "createdAt": "12:28:47Z"
+          }
+        ]
+      }
+    ],
+    "id": 775,
+    "courseId": "841048",
+    "courseName": "P/tích thiết kế hệ thống thông tin",
+    "courseGroup": 6,
+    "practiceGroup": null,
+    "amount": 40,
+    "teacherName": "Phan Nguyệt Minh",
+    "createdAt": "2024-07-28T12:28:46.751516Z",
+    "courseDays": [
+      {
+        "id": 1520,
+        "dayOfWeek": 2,
+        "periodStart": 8,
+        "periodTotal": 3,
+        "practiceGroup": null,
+        "room": "C.E605",
+        "totalWeek": "123456789012345----",
+        "createdAt": "12:28:47Z"
+      }
+    ]
+  },
+  {
+    "courses": [
+      {
+        "courses": [],
+        "id": 778,
+        "courseId": "841048",
+        "courseName": "P/tích thiết kế hệ thống thông tin",
+        "courseGroup": 7,
+        "practiceGroup": 1,
+        "amount": 40,
+        "teacherName": "Phan Nguyệt Minh",
+        "createdAt": "2024-07-28T12:28:48.652278Z",
+        "courseDays": [
+          {
+            "id": 1523,
+            "dayOfWeek": 2,
+            "periodStart": 4,
+            "periodTotal": 2,
+            "practiceGroup": 1,
+            "room": "C.A111",
+            "totalWeek": "123456789012345----",
+            "createdAt": "12:28:48Z"
+          }
+        ]
+      }
+    ],
+    "id": 777,
+    "courseId": "841048",
+    "courseName": "P/tích thiết kế hệ thống thông tin",
+    "courseGroup": 7,
+    "practiceGroup": null,
+    "amount": 40,
+    "teacherName": "Phan Nguyệt Minh",
+    "createdAt": "2024-07-28T12:28:47.980762Z",
+    "courseDays": [
+      {
+        "id": 1522,
+        "dayOfWeek": 2,
+        "periodStart": 1,
+        "periodTotal": 3,
+        "practiceGroup": null,
+        "room": "C.E204",
+        "totalWeek": "123456789012345----",
+        "createdAt": "12:28:48Z"
+      }
+    ]
+  },
+  {
+    "courses": [
+      {
+        "courses": [],
+        "id": 780,
+        "courseId": "841048",
+        "courseName": "P/tích thiết kế hệ thống thông tin",
+        "courseGroup": 8,
+        "practiceGroup": 1,
+        "amount": 40,
+        "teacherName": "Phan Nguyệt Minh",
+        "createdAt": "2024-07-28T12:28:50.883395Z",
+        "courseDays": [
+          {
+            "id": 1525,
+            "dayOfWeek": 7,
+            "periodStart": 4,
+            "periodTotal": 2,
+            "practiceGroup": 1,
+            "room": "C.A503",
+            "totalWeek": "123456789012345----",
+            "createdAt": "12:28:51Z"
+          }
+        ]
+      }
+    ],
+    "id": 779,
+    "courseId": "841048",
+    "courseName": "P/tích thiết kế hệ thống thông tin",
+    "courseGroup": 8,
+    "practiceGroup": null,
+    "amount": 40,
+    "teacherName": "Phan Nguyệt Minh",
+    "createdAt": "2024-07-28T12:28:49.21576Z",
+    "courseDays": [
+      {
+        "id": 1524,
+        "dayOfWeek": 7,
+        "periodStart": 1,
+        "periodTotal": 3,
+        "practiceGroup": null,
+        "room": "C.A503",
+        "totalWeek": "123456789012345----",
+        "createdAt": "12:28:50Z"
+      }
+    ]
+  },
+  {
+    "courses": [
+      {
+        "courses": [],
+        "id": 782,
+        "courseId": "841048",
+        "courseName": "P/tích thiết kế hệ thống thông tin",
+        "courseGroup": 9,
+        "practiceGroup": 1,
+        "amount": 40,
+        "teacherName": "Phan Nguyệt Minh",
+        "createdAt": "2024-07-28T12:28:53.519743Z",
+        "courseDays": [
+          {
+            "id": 1527,
+            "dayOfWeek": 3,
+            "periodStart": 6,
+            "periodTotal": 2,
+            "practiceGroup": 1,
+            "room": "C.A106",
+            "totalWeek": "123456789012345----",
+            "createdAt": "12:28:53Z"
+          }
+        ]
+      }
+    ],
+    "id": 781,
+    "courseId": "841048",
+    "courseName": "P/tích thiết kế hệ thống thông tin",
+    "courseGroup": 9,
+    "practiceGroup": null,
+    "amount": 40,
+    "teacherName": "Phan Nguyệt Minh",
+    "createdAt": "2024-07-28T12:28:52.924319Z",
+    "courseDays": [
+      {
+        "id": 1526,
+        "dayOfWeek": 3,
+        "periodStart": 8,
+        "periodTotal": 3,
+        "practiceGroup": null,
+        "room": "C.E306",
+        "totalWeek": "123456789012345----",
+        "createdAt": "12:28:53Z"
+      }
+    ]
+  },
+  {
+    "courses": [
+      {
+        "courses": [],
+        "id": 784,
+        "courseId": "841048",
+        "courseName": "P/tích thiết kế hệ thống thông tin",
+        "courseGroup": 10,
+        "practiceGroup": 1,
+        "amount": 40,
+        "teacherName": "Trương Tấn Khoa",
+        "createdAt": "2024-07-28T12:28:54.994354Z",
+        "courseDays": [
+          {
+            "id": 1529,
+            "dayOfWeek": 2,
+            "periodStart": 6,
+            "periodTotal": 2,
+            "practiceGroup": 1,
+            "room": "C.A110",
+            "totalWeek": "123456789012345----",
+            "createdAt": "12:28:55Z"
+          }
+        ]
+      }
+    ],
+    "id": 783,
+    "courseId": "841048",
+    "courseName": "P/tích thiết kế hệ thống thông tin",
+    "courseGroup": 10,
+    "practiceGroup": null,
+    "amount": 40,
+    "teacherName": "Trương Tấn Khoa",
+    "createdAt": "2024-07-28T12:28:54.243717Z",
+    "courseDays": [
+      {
+        "id": 1528,
+        "dayOfWeek": 2,
+        "periodStart": 8,
+        "periodTotal": 3,
+        "practiceGroup": null,
+        "room": "C.E604",
+        "totalWeek": "123456789012345----",
+        "createdAt": "12:28:54Z"
+      }
+    ]
+  },
+  {
+    "courses": [
+      {
+        "courses": [],
+        "id": 786,
+        "courseId": "841048",
+        "courseName": "P/tích thiết kế hệ thống thông tin",
+        "courseGroup": 11,
+        "practiceGroup": 1,
+        "amount": 40,
+        "teacherName": "Trương Tấn Khoa",
+        "createdAt": "2024-07-28T12:28:56.313571Z",
+        "courseDays": [
+          {
+            "id": 1531,
+            "dayOfWeek": 7,
+            "periodStart": 9,
+            "periodTotal": 2,
+            "practiceGroup": 1,
+            "room": "C.A111",
+            "totalWeek": "123456789012345----",
+            "createdAt": "12:28:56Z"
+          }
+        ]
+      }
+    ],
+    "id": 785,
+    "courseId": "841048",
+    "courseName": "P/tích thiết kế hệ thống thông tin",
+    "courseGroup": 11,
+    "practiceGroup": null,
+    "amount": 40,
+    "teacherName": "Trương Tấn Khoa",
+    "createdAt": "2024-07-28T12:28:55.636144Z",
+    "courseDays": [
+      {
+        "id": 1530,
+        "dayOfWeek": 7,
+        "periodStart": 6,
+        "periodTotal": 3,
+        "practiceGroup": null,
+        "room": "C.A303",
+        "totalWeek": "123456789012345----",
+        "createdAt": "12:28:55Z"
+      }
+    ]
+  },
+  {
+    "courses": [
+      {
+        "courses": [],
+        "id": 788,
+        "courseId": "841048",
+        "courseName": "P/tích thiết kế hệ thống thông tin",
+        "courseGroup": 12,
+        "practiceGroup": 1,
+        "amount": 40,
+        "teacherName": "Trương Tấn Khoa",
+        "createdAt": "2024-07-28T12:28:57.853513Z",
+        "courseDays": [
+          {
+            "id": 1533,
+            "dayOfWeek": 7,
+            "periodStart": 1,
+            "periodTotal": 2,
+            "practiceGroup": 1,
+            "room": "C.A105",
+            "totalWeek": "123456789012345----",
+            "createdAt": "12:28:58Z"
+          }
+        ]
+      }
+    ],
+    "id": 787,
+    "courseId": "841048",
+    "courseName": "P/tích thiết kế hệ thống thông tin",
+    "courseGroup": 12,
+    "practiceGroup": null,
+    "amount": 40,
+    "teacherName": "Trương Tấn Khoa",
+    "createdAt": "2024-07-28T12:28:56.924171Z",
+    "courseDays": [
+      {
+        "id": 1532,
+        "dayOfWeek": 7,
+        "periodStart": 3,
+        "periodTotal": 3,
+        "practiceGroup": null,
+        "room": "C.A303",
+        "totalWeek": "123456789012345----",
+        "createdAt": "12:28:57Z"
+      }
+    ]
+  },
+  {
+    "courses": [
+      {
+        "courses": [],
+        "id": 790,
+        "courseId": "841048",
+        "courseName": "P/tích thiết kế hệ thống thông tin",
+        "courseGroup": 13,
+        "practiceGroup": 1,
+        "amount": 40,
+        "teacherName": "Trần Sơn Hải",
+        "createdAt": "2024-07-28T12:28:59.125496Z",
+        "courseDays": [
+          {
+            "id": 1535,
+            "dayOfWeek": 3,
+            "periodStart": 1,
+            "periodTotal": 2,
+            "practiceGroup": 1,
+            "room": "C.A110",
+            "totalWeek": "123456789012345----",
+            "createdAt": "12:28:59Z"
+          }
+        ]
+      }
+    ],
+    "id": 789,
+    "courseId": "841048",
+    "courseName": "P/tích thiết kế hệ thống thông tin",
+    "courseGroup": 13,
+    "practiceGroup": null,
+    "amount": 40,
+    "teacherName": "Trần Sơn Hải",
+    "createdAt": "2024-07-28T12:28:58.413822Z",
+    "courseDays": [
+      {
+        "id": 1534,
+        "dayOfWeek": 3,
+        "periodStart": 3,
+        "periodTotal": 3,
+        "practiceGroup": null,
+        "room": "C.A505",
+        "totalWeek": "123456789012345----",
+        "createdAt": "12:28:58Z"
+      }
+    ]
+  },
+  {
+    "courses": [
+      {
+        "courses": [],
+        "id": 792,
+        "courseId": "841048",
+        "courseName": "P/tích thiết kế hệ thống thông tin",
+        "courseGroup": 14,
+        "practiceGroup": 1,
+        "amount": 40,
+        "teacherName": "Trần Sơn Hải",
+        "createdAt": "2024-07-28T12:29:00.422954Z",
+        "courseDays": [
+          {
+            "id": 1537,
+            "dayOfWeek": 2,
+            "periodStart": 4,
+            "periodTotal": 2,
+            "practiceGroup": 1,
+            "room": "C.A110",
+            "totalWeek": "123456789012345----",
+            "createdAt": "12:29Z"
+          }
+        ]
+      }
+    ],
+    "id": 791,
+    "courseId": "841048",
+    "courseName": "P/tích thiết kế hệ thống thông tin",
+    "courseGroup": 14,
+    "practiceGroup": null,
+    "amount": 40,
+    "teacherName": "Trần Sơn Hải",
+    "createdAt": "2024-07-28T12:28:59.798924Z",
+    "courseDays": [
+      {
+        "id": 1536,
+        "dayOfWeek": 2,
+        "periodStart": 1,
+        "periodTotal": 3,
+        "practiceGroup": null,
+        "room": "C.A507",
+        "totalWeek": "123456789012345----",
+        "createdAt": "12:29Z"
+      }
+    ]
+  },
+  {
+    "courses": [
+      {
+        "courses": [],
+        "id": 794,
+        "courseId": "841048",
+        "courseName": "P/tích thiết kế hệ thống thông tin",
+        "courseGroup": 15,
+        "practiceGroup": 1,
+        "amount": 40,
+        "teacherName": "Nguyễn Hữu Quang",
+        "createdAt": "2024-07-28T12:29:01.884758Z",
+        "courseDays": [
+          {
+            "id": 1539,
+            "dayOfWeek": 7,
+            "periodStart": 9,
+            "periodTotal": 2,
+            "practiceGroup": 1,
+            "room": "C.A105",
+            "totalWeek": "123456789012345----",
+            "createdAt": "12:29:02Z"
+          }
+        ]
+      }
+    ],
+    "id": 793,
+    "courseId": "841048",
+    "courseName": "P/tích thiết kế hệ thống thông tin",
+    "courseGroup": 15,
+    "practiceGroup": null,
+    "amount": 40,
+    "teacherName": "Nguyễn Hữu Quang",
+    "createdAt": "2024-07-28T12:29:01.215668Z",
+    "courseDays": [
+      {
+        "id": 1538,
+        "dayOfWeek": 7,
+        "periodStart": 6,
+        "periodTotal": 3,
+        "practiceGroup": null,
+        "room": "C.A306",
+        "totalWeek": "123456789012345----",
+        "createdAt": "12:29:01Z"
+      }
+    ]
+  },
+  {
+    "courses": [
+      {
+        "courses": [],
+        "id": 796,
+        "courseId": "841048",
+        "courseName": "P/tích thiết kế hệ thống thông tin",
+        "courseGroup": 16,
+        "practiceGroup": 1,
+        "amount": 40,
+        "teacherName": "Nguyễn Hữu Quang",
+        "createdAt": "2024-07-28T12:29:03.173371Z",
+        "courseDays": [
+          {
+            "id": 1541,
+            "dayOfWeek": 7,
+            "periodStart": 4,
+            "periodTotal": 2,
+            "practiceGroup": 1,
+            "room": "C.A110",
+            "totalWeek": "123456789012345----",
+            "createdAt": "12:29:03Z"
+          }
+        ]
+      }
+    ],
+    "id": 795,
+    "courseId": "841048",
+    "courseName": "P/tích thiết kế hệ thống thông tin",
+    "courseGroup": 16,
+    "practiceGroup": null,
+    "amount": 40,
+    "teacherName": "Nguyễn Hữu Quang",
+    "createdAt": "2024-07-28T12:29:02.512227Z",
+    "courseDays": [
+      {
+        "id": 1540,
+        "dayOfWeek": 7,
+        "periodStart": 1,
+        "periodTotal": 3,
+        "practiceGroup": null,
+        "room": "C.A501",
+        "totalWeek": "123456789012345----",
+        "createdAt": "12:29:02Z"
+      }
+    ]
+  },
+  {
+    "courses": [
+      {
+        "courses": [],
+        "id": 798,
+        "courseId": "841048",
+        "courseName": "P/tích thiết kế hệ thống thông tin",
+        "courseGroup": 17,
+        "practiceGroup": 1,
+        "amount": 40,
+        "teacherName": "Lê Hùng Thanh Nhựt",
+        "createdAt": "2024-07-28T12:29:04.654147Z",
+        "courseDays": [
+          {
+            "id": 1543,
+            "dayOfWeek": 4,
+            "periodStart": 6,
+            "periodTotal": 2,
+            "practiceGroup": 1,
+            "room": "C.A502",
+            "totalWeek": "123456789012345----",
+            "createdAt": "12:29:04Z"
+          }
+        ]
+      }
+    ],
+    "id": 797,
+    "courseId": "841048",
+    "courseName": "P/tích thiết kế hệ thống thông tin",
+    "courseGroup": 17,
+    "practiceGroup": null,
+    "amount": 40,
+    "teacherName": "Lê Hùng Thanh Nhựt",
+    "createdAt": "2024-07-28T12:29:04.044367Z",
+    "courseDays": [
+      {
+        "id": 1542,
+        "dayOfWeek": 4,
+        "periodStart": 8,
+        "periodTotal": 3,
+        "practiceGroup": null,
+        "room": "C.A502",
+        "totalWeek": "123456789012345----",
+        "createdAt": "12:29:04Z"
+      }
+    ]
+  },
+  {
+    "courses": [
+      {
+        "courses": [],
+        "id": 800,
+        "courseId": "841048",
+        "courseName": "P/tích thiết kế hệ thống thông tin",
+        "courseGroup": 18,
+        "practiceGroup": 1,
+        "amount": 40,
+        "teacherName": "Lê Hùng Thanh Nhựt",
+        "createdAt": "2024-07-28T12:29:05.989206Z",
+        "courseDays": [
+          {
+            "id": 1545,
+            "dayOfWeek": 2,
+            "periodStart": 9,
+            "periodTotal": 2,
+            "practiceGroup": 1,
+            "room": "C.A506",
+            "totalWeek": "123456789012345----",
+            "createdAt": "12:29:06Z"
+          }
+        ]
+      }
+    ],
+    "id": 799,
+    "courseId": "841048",
+    "courseName": "P/tích thiết kế hệ thống thông tin",
+    "courseGroup": 18,
+    "practiceGroup": null,
+    "amount": 40,
+    "teacherName": "Lê Hùng Thanh Nhựt",
+    "createdAt": "2024-07-28T12:29:05.348472Z",
+    "courseDays": [
+      {
+        "id": 1544,
+        "dayOfWeek": 2,
+        "periodStart": 6,
+        "periodTotal": 3,
+        "practiceGroup": null,
+        "room": "C.A506",
+        "totalWeek": "123456789012345----",
+        "createdAt": "12:29:05Z"
+      }
+    ]
+  },
+  {
+    "courses": [
+      {
+        "courses": [],
+        "id": 803,
+        "courseId": "841058",
+        "courseName": "Hệ điều hành mã nguồn mở",
+        "courseGroup": 1,
+        "practiceGroup": 2,
+        "amount": 90,
+        "teacherName": "Lương Minh Huấn",
+        "createdAt": "2024-07-28T12:29:08.455082Z",
+        "courseDays": [
+          {
+            "id": 1548,
+            "dayOfWeek": 4,
+            "periodStart": 1,
+            "periodTotal": 2,
+            "practiceGroup": 2,
+            "room": "C.A110",
+            "totalWeek": "123456789012345----",
+            "createdAt": "12:29:08Z"
+          }
+        ]
+      },
+      {
+        "courses": [],
+        "id": 802,
+        "courseId": "841058",
+        "courseName": "Hệ điều hành mã nguồn mở",
+        "courseGroup": 1,
+        "practiceGroup": 1,
+        "amount": 90,
+        "teacherName": "Lương Minh Huấn",
+        "createdAt": "2024-07-28T12:29:07.753967Z",
+        "courseDays": [
+          {
+            "id": 1547,
+            "dayOfWeek": 5,
+            "periodStart": 1,
+            "periodTotal": 2,
+            "practiceGroup": 1,
+            "room": "C.A110",
+            "totalWeek": "123456789012345----",
+            "createdAt": "12:29:08Z"
+          }
+        ]
+      }
+    ],
+    "id": 801,
+    "courseId": "841058",
+    "courseName": "Hệ điều hành mã nguồn mở",
+    "courseGroup": 1,
+    "practiceGroup": null,
+    "amount": 90,
+    "teacherName": "Lương Minh Huấn",
+    "createdAt": "2024-07-28T12:29:06.774003Z",
+    "courseDays": [
+      {
+        "id": 1546,
+        "dayOfWeek": 2,
+        "periodStart": 9,
+        "periodTotal": 2,
+        "practiceGroup": null,
+        "room": "C.E402",
+        "totalWeek": "123456789012345----",
+        "createdAt": "12:29:07Z"
+      }
+    ]
+  },
+  {
+    "courses": [
+      {
+        "courses": [],
+        "id": 806,
+        "courseId": "841058",
+        "courseName": "Hệ điều hành mã nguồn mở",
+        "courseGroup": 2,
+        "practiceGroup": 2,
+        "amount": 90,
+        "teacherName": "Lương Minh Huấn",
+        "createdAt": "2024-07-28T12:29:10.923008Z",
+        "courseDays": [
+          {
+            "id": 1551,
+            "dayOfWeek": 5,
+            "periodStart": 4,
+            "periodTotal": 2,
+            "practiceGroup": 2,
+            "room": "C.A110",
+            "totalWeek": "123456789012345----",
+            "createdAt": "12:29:11Z"
+          }
+        ]
+      },
+      {
+        "courses": [],
+        "id": 805,
+        "courseId": "841058",
+        "courseName": "Hệ điều hành mã nguồn mở",
+        "courseGroup": 2,
+        "practiceGroup": 1,
+        "amount": 90,
+        "teacherName": "Lương Minh Huấn",
+        "createdAt": "2024-07-28T12:29:10.140455Z",
+        "courseDays": [
+          {
+            "id": 1550,
+            "dayOfWeek": 5,
+            "periodStart": 6,
+            "periodTotal": 2,
+            "practiceGroup": 1,
+            "room": "C.A109",
+            "totalWeek": "123456789012345----",
+            "createdAt": "12:29:10Z"
+          }
+        ]
+      }
+    ],
+    "id": 804,
+    "courseId": "841058",
+    "courseName": "Hệ điều hành mã nguồn mở",
+    "courseGroup": 2,
+    "practiceGroup": null,
+    "amount": 90,
+    "teacherName": "Lương Minh Huấn",
+    "createdAt": "2024-07-28T12:29:09.1047Z",
+    "courseDays": [
+      {
+        "id": 1549,
+        "dayOfWeek": 4,
+        "periodStart": 8,
+        "periodTotal": 2,
+        "practiceGroup": null,
+        "room": "C.E403",
+        "totalWeek": "123456789012345----",
+        "createdAt": "12:29:09Z"
+      }
+    ]
+  },
+  {
+    "courses": [
+      {
+        "courses": [],
+        "id": 809,
+        "courseId": "841058",
+        "courseName": "Hệ điều hành mã nguồn mở",
+        "courseGroup": 3,
+        "practiceGroup": 2,
+        "amount": 90,
+        "teacherName": "Lương Minh Huấn",
+        "createdAt": "2024-07-28T12:29:13.209321Z",
+        "courseDays": [
+          {
+            "id": 1554,
+            "dayOfWeek": 3,
+            "periodStart": 1,
+            "periodTotal": 2,
+            "practiceGroup": 2,
+            "room": "C.A105",
+            "totalWeek": "123456789012345----",
+            "createdAt": "12:29:13Z"
+          }
+        ]
+      },
+      {
+        "courses": [],
+        "id": 808,
+        "courseId": "841058",
+        "courseName": "Hệ điều hành mã nguồn mở",
+        "courseGroup": 3,
+        "practiceGroup": 1,
+        "amount": 90,
+        "teacherName": "Lương Minh Huấn",
+        "createdAt": "2024-07-28T12:29:12.3544Z",
+        "courseDays": [
+          {
+            "id": 1553,
+            "dayOfWeek": 7,
+            "periodStart": 4,
+            "periodTotal": 2,
+            "practiceGroup": 1,
+            "room": "C.A106",
+            "totalWeek": "123456789012345----",
+            "createdAt": "12:29:12Z"
+          }
+        ]
+      }
+    ],
+    "id": 807,
+    "courseId": "841058",
+    "courseName": "Hệ điều hành mã nguồn mở",
+    "courseGroup": 3,
+    "practiceGroup": null,
+    "amount": 90,
+    "teacherName": "Lương Minh Huấn",
+    "createdAt": "2024-07-28T12:29:11.604039Z",
+    "courseDays": [
+      {
+        "id": 1552,
+        "dayOfWeek": 3,
+        "periodStart": 6,
+        "periodTotal": 2,
+        "practiceGroup": null,
+        "room": "C.E403",
+        "totalWeek": "123456789012345----",
+        "createdAt": "12:29:11Z"
+      }
+    ]
+  },
+  {
+    "courses": [
+      {
+        "courses": [],
+        "id": 812,
+        "courseId": "841058",
+        "courseName": "Hệ điều hành mã nguồn mở",
+        "courseGroup": 4,
+        "practiceGroup": 2,
+        "amount": 90,
+        "teacherName": "Lương Minh Huấn",
+        "createdAt": "2024-07-28T12:29:15.412335Z",
+        "courseDays": [
+          {
+            "id": 1557,
+            "dayOfWeek": 3,
+            "periodStart": 1,
+            "periodTotal": 2,
+            "practiceGroup": 2,
+            "room": "C.A106",
+            "totalWeek": "123456789012345----",
+            "createdAt": "12:29:15Z"
+          }
+        ]
+      },
+      {
+        "courses": [],
+        "id": 811,
+        "courseId": "841058",
+        "courseName": "Hệ điều hành mã nguồn mở",
+        "courseGroup": 4,
+        "practiceGroup": 1,
+        "amount": 90,
+        "teacherName": "Lương Minh Huấn",
+        "createdAt": "2024-07-28T12:29:14.516726Z",
+        "courseDays": [
+          {
+            "id": 1556,
+            "dayOfWeek": 4,
+            "periodStart": 1,
+            "periodTotal": 2,
+            "practiceGroup": 1,
+            "room": "C.A102",
+            "totalWeek": "123456789012345----",
+            "createdAt": "12:29:14Z"
+          }
+        ]
+      }
+    ],
+    "id": 810,
+    "courseId": "841058",
+    "courseName": "Hệ điều hành mã nguồn mở",
+    "courseGroup": 4,
+    "practiceGroup": null,
+    "amount": 90,
+    "teacherName": "Lương Minh Huấn",
+    "createdAt": "2024-07-28T12:29:13.854284Z",
+    "courseDays": [
+      {
+        "id": 1555,
+        "dayOfWeek": 4,
+        "periodStart": 6,
+        "periodTotal": 2,
+        "practiceGroup": null,
+        "room": "C.E403",
+        "totalWeek": "123456789012345----",
+        "createdAt": "12:29:14Z"
+      }
+    ]
+  }
+]
