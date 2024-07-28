@@ -72,7 +72,8 @@ public class SecurityConfig {
 				//swagger docs
 				.requestMatchers("/swagger-ui/**", "/v3/**", "/swagger-ui.html", "/openapi-3.0.yml").permitAll()
 				.anyRequest()
-				.authenticated()
+					.permitAll()
+//				.authenticated()
 
 			)
 

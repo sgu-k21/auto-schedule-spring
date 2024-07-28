@@ -1,0 +1,3653 @@
+{
+  "scheduler": [
+    {
+      "teacherName": "Nguyễn Thành Huy",
+      "courseId": "841047",
+      "courseName": "Công nghệ phần mềm",
+      "courseGroup": "01",
+      "amount": "90",
+      "days": [
+        {
+          "dayOfWeek": 7,
+          "periodStart": 1,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.C107",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 7,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.E403",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Lê Hùng Thanh Nhựt",
+      "courseId": "841048",
+      "courseName": "P/tích thiết kế hệ thống thông tin",
+      "courseGroup": "01",
+      "amount": "40",
+      "days": [
+        {
+          "dayOfWeek": 3,
+          "periodStart": 6,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.E601",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 3,
+          "periodStart": 9,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.E601",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Huỳnh Nguyễn Khắc Huy",
+      "courseId": "841048",
+      "courseName": "P/tích thiết kế hệ thống thông tin",
+      "courseGroup": "02",
+      "amount": "40",
+      "days": [
+        {
+          "dayOfWeek": 2,
+          "periodStart": 6,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A316",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 2,
+          "periodStart": 9,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A105",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Huỳnh Nguyễn Khắc Huy",
+      "courseId": "841048",
+      "courseName": "P/tích thiết kế hệ thống thông tin",
+      "courseGroup": "03",
+      "amount": "40",
+      "days": [
+        {
+          "dayOfWeek": 4,
+          "periodStart": 1,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A316",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 4,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A106",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Huỳnh Nguyễn Khắc Huy",
+      "courseId": "841048",
+      "courseName": "P/tích thiết kế hệ thống thông tin",
+      "courseGroup": "04",
+      "amount": "40",
+      "days": [
+        {
+          "dayOfWeek": 6,
+          "periodStart": 1,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A307",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 6,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A106",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Huỳnh Nguyễn Khắc Huy",
+      "courseId": "841048",
+      "courseName": "P/tích thiết kế hệ thống thông tin",
+      "courseGroup": "05",
+      "amount": "40",
+      "days": [
+        {
+          "dayOfWeek": 2,
+          "periodStart": 3,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A314",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 2,
+          "periodStart": 1,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A106",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Phan Nguyệt Minh",
+      "courseId": "841048",
+      "courseName": "P/tích thiết kế hệ thống thông tin",
+      "courseGroup": "06",
+      "amount": "40",
+      "days": [
+        {
+          "dayOfWeek": 2,
+          "periodStart": 8,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.E605",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 2,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A106",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Phan Nguyệt Minh",
+      "courseId": "841048",
+      "courseName": "P/tích thiết kế hệ thống thông tin",
+      "courseGroup": "07",
+      "amount": "40",
+      "days": [
+        {
+          "dayOfWeek": 2,
+          "periodStart": 1,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.E204",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 2,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A111",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Phan Nguyệt Minh",
+      "courseId": "841048",
+      "courseName": "P/tích thiết kế hệ thống thông tin",
+      "courseGroup": "08",
+      "amount": "40",
+      "days": [
+        {
+          "dayOfWeek": 7,
+          "periodStart": 1,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A503",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 7,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A503",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Phan Nguyệt Minh",
+      "courseId": "841048",
+      "courseName": "P/tích thiết kế hệ thống thông tin",
+      "courseGroup": "09",
+      "amount": "40",
+      "days": [
+        {
+          "dayOfWeek": 3,
+          "periodStart": 8,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.E306",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 3,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A106",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Trương Tấn Khoa",
+      "courseId": "841048",
+      "courseName": "P/tích thiết kế hệ thống thông tin",
+      "courseGroup": "10",
+      "amount": "40",
+      "days": [
+        {
+          "dayOfWeek": 2,
+          "periodStart": 8,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.E604",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 2,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A110",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Trương Tấn Khoa",
+      "courseId": "841048",
+      "courseName": "P/tích thiết kế hệ thống thông tin",
+      "courseGroup": "11",
+      "amount": "40",
+      "days": [
+        {
+          "dayOfWeek": 7,
+          "periodStart": 6,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A303",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 7,
+          "periodStart": 9,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A111",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Trương Tấn Khoa",
+      "courseId": "841048",
+      "courseName": "P/tích thiết kế hệ thống thông tin",
+      "courseGroup": "12",
+      "amount": "40",
+      "days": [
+        {
+          "dayOfWeek": 7,
+          "periodStart": 3,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A303",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 7,
+          "periodStart": 1,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A105",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Trần Sơn Hải",
+      "courseId": "841048",
+      "courseName": "P/tích thiết kế hệ thống thông tin",
+      "courseGroup": "13",
+      "amount": "40",
+      "days": [
+        {
+          "dayOfWeek": 3,
+          "periodStart": 3,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A505",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 3,
+          "periodStart": 1,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A110",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Trần Sơn Hải",
+      "courseId": "841048",
+      "courseName": "P/tích thiết kế hệ thống thông tin",
+      "courseGroup": "14",
+      "amount": "40",
+      "days": [
+        {
+          "dayOfWeek": 2,
+          "periodStart": 1,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A507",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 2,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A110",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Nguyễn Hữu Quang",
+      "courseId": "841048",
+      "courseName": "P/tích thiết kế hệ thống thông tin",
+      "courseGroup": "15",
+      "amount": "40",
+      "days": [
+        {
+          "dayOfWeek": 7,
+          "periodStart": 6,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A306",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 7,
+          "periodStart": 9,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A105",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Nguyễn Hữu Quang",
+      "courseId": "841048",
+      "courseName": "P/tích thiết kế hệ thống thông tin",
+      "courseGroup": "16",
+      "amount": "40",
+      "days": [
+        {
+          "dayOfWeek": 7,
+          "periodStart": 1,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A501",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 7,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A110",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Lê Hùng Thanh Nhựt",
+      "courseId": "841048",
+      "courseName": "P/tích thiết kế hệ thống thông tin",
+      "courseGroup": "17",
+      "amount": "40",
+      "days": [
+        {
+          "dayOfWeek": 4,
+          "periodStart": 8,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A502",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 4,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A502",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Lê Hùng Thanh Nhựt",
+      "courseId": "841048",
+      "courseName": "P/tích thiết kế hệ thống thông tin",
+      "courseGroup": "18",
+      "amount": "40",
+      "days": [
+        {
+          "dayOfWeek": 2,
+          "periodStart": 6,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A506",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 2,
+          "periodStart": 9,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A506",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Lương Minh Huấn",
+      "courseId": "841058",
+      "courseName": "Hệ điều hành mã nguồn mở",
+      "courseGroup": "01",
+      "amount": "90",
+      "days": [
+        {
+          "dayOfWeek": 2,
+          "periodStart": 9,
+          "periodTotal": 2,
+          "practiceGroup": "",
+          "room": "C.E402",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 5,
+          "periodStart": 1,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A110",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 4,
+          "periodStart": 1,
+          "periodTotal": 2,
+          "practiceGroup": "02",
+          "room": "C.A110",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Lương Minh Huấn",
+      "courseId": "841058",
+      "courseName": "Hệ điều hành mã nguồn mở",
+      "courseGroup": "02",
+      "amount": "90",
+      "days": [
+        {
+          "dayOfWeek": 4,
+          "periodStart": 8,
+          "periodTotal": 2,
+          "practiceGroup": "",
+          "room": "C.E403",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 5,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A109",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 5,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "02",
+          "room": "C.A110",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Lương Minh Huấn",
+      "courseId": "841058",
+      "courseName": "Hệ điều hành mã nguồn mở",
+      "courseGroup": "03",
+      "amount": "90",
+      "days": [
+        {
+          "dayOfWeek": 3,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "",
+          "room": "C.E403",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 7,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A106",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 3,
+          "periodStart": 1,
+          "periodTotal": 2,
+          "practiceGroup": "02",
+          "room": "C.A105",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Lương Minh Huấn",
+      "courseId": "841058",
+      "courseName": "Hệ điều hành mã nguồn mở",
+      "courseGroup": "04",
+      "amount": "90",
+      "days": [
+        {
+          "dayOfWeek": 4,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "",
+          "room": "C.E403",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 4,
+          "periodStart": 1,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A102",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 3,
+          "periodStart": 1,
+          "periodTotal": 2,
+          "practiceGroup": "02",
+          "room": "C.A106",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Nguyễn Trung Tín",
+      "courseId": "841058",
+      "courseName": "Hệ điều hành mã nguồn mở",
+      "courseGroup": "05",
+      "amount": "90",
+      "days": [
+        {
+          "dayOfWeek": 6,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "",
+          "room": "C.E402",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 4,
+          "periodStart": 9,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A111",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 2,
+          "periodStart": 9,
+          "periodTotal": 2,
+          "practiceGroup": "02",
+          "room": "C.A102",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Nguyễn Trung Tín",
+      "courseId": "841058",
+      "courseName": "Hệ điều hành mã nguồn mở",
+      "courseGroup": "06",
+      "amount": "90",
+      "days": [
+        {
+          "dayOfWeek": 3,
+          "periodStart": 9,
+          "periodTotal": 2,
+          "practiceGroup": "",
+          "room": "C.E403",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 6,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A111",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 4,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "02",
+          "room": "C.A105",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Từ Lãng Phiêu",
+      "courseId": "841058",
+      "courseName": "Hệ điều hành mã nguồn mở",
+      "courseGroup": "07",
+      "amount": "90",
+      "days": [
+        {
+          "dayOfWeek": 7,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "",
+          "room": "C.C107",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 2,
+          "periodStart": 9,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A110",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 6,
+          "periodStart": 1,
+          "periodTotal": 2,
+          "practiceGroup": "02",
+          "room": "C.A105",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Từ Lãng Phiêu",
+      "courseId": "841058",
+      "courseName": "Hệ điều hành mã nguồn mở",
+      "courseGroup": "08",
+      "amount": "90",
+      "days": [
+        {
+          "dayOfWeek": 7,
+          "periodStart": 8,
+          "periodTotal": 2,
+          "practiceGroup": "",
+          "room": "C.C107",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 3,
+          "periodStart": 9,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A105",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 4,
+          "periodStart": 9,
+          "periodTotal": 2,
+          "practiceGroup": "02",
+          "room": "C.A102",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Trần Công Hùng",
+      "courseId": "841061",
+      "courseName": "Mạng máy tính nâng cao",
+      "courseGroup": "01",
+      "amount": "70",
+      "days": [
+        {
+          "dayOfWeek": 7,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "",
+          "room": "C.A302",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 7,
+          "periodStart": 2,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A102",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Lê Nhị Lãm Thúy",
+      "courseId": "841068",
+      "courseName": "Hệ thống thông tin doanh nghiệp",
+      "courseGroup": "01",
+      "amount": "75",
+      "days": [
+        {
+          "dayOfWeek": 6,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "",
+          "room": "C.E305",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 6,
+          "periodStart": 8,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.E403",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Lê Nhị Lãm Thúy",
+      "courseId": "841068",
+      "courseName": "Hệ thống thông tin doanh nghiệp",
+      "courseGroup": "02",
+      "amount": "70",
+      "days": [
+        {
+          "dayOfWeek": 2,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "",
+          "room": "C.E203",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 2,
+          "periodStart": 8,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.E203",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Phạm Thi Vương",
+      "courseId": "841072",
+      "courseName": "Các công nghệ lập trình hiện đại",
+      "courseGroup": "01",
+      "amount": "100",
+      "days": [
+        {
+          "dayOfWeek": 7,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "",
+          "room": "C.HTC",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 7,
+          "periodStart": 9,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.E402",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Phạm Thi Vương",
+      "courseId": "841072",
+      "courseName": "Các công nghệ lập trình hiện đại",
+      "courseGroup": "02",
+      "amount": "100",
+      "days": [
+        {
+          "dayOfWeek": 7,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "",
+          "room": "C.C107",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 7,
+          "periodStart": 1,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.E402",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Võ Hoàng Hải",
+      "courseId": "841072",
+      "courseName": "Các công nghệ lập trình hiện đại",
+      "courseGroup": "03",
+      "amount": "100",
+      "days": [
+        {
+          "dayOfWeek": 7,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "",
+          "room": "C.E403",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 7,
+          "periodStart": 8,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.E403",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Nguyễn Tuấn Đăng",
+      "courseId": "841073",
+      "courseName": "Seminar chuyên đề",
+      "courseGroup": "01",
+      "amount": "80",
+      "days": [
+        {
+          "dayOfWeek": 3,
+          "periodStart": 2,
+          "periodTotal": 4,
+          "practiceGroup": "",
+          "room": "C.E102",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Phan Tấn Quốc",
+      "courseId": "841073",
+      "courseName": "Seminar chuyên đề",
+      "courseGroup": "02",
+      "amount": "80",
+      "days": [
+        {
+          "dayOfWeek": 5,
+          "periodStart": 9,
+          "periodTotal": 2,
+          "practiceGroup": "",
+          "room": "C.A016",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 6,
+          "periodStart": 9,
+          "periodTotal": 2,
+          "practiceGroup": null,
+          "room": "C.A016",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Nguyễn Tuấn Đăng",
+      "courseId": "841073",
+      "courseName": "Seminar chuyên đề",
+      "courseGroup": "03",
+      "amount": "80",
+      "days": [
+        {
+          "dayOfWeek": 5,
+          "periodStart": 2,
+          "periodTotal": 4,
+          "practiceGroup": "",
+          "room": "C.E102",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Phan Tấn Quốc",
+      "courseId": "841073",
+      "courseName": "Seminar chuyên đề",
+      "courseGroup": "04",
+      "amount": "80",
+      "days": [
+        {
+          "dayOfWeek": 4,
+          "periodStart": 2,
+          "periodTotal": 4,
+          "practiceGroup": "",
+          "room": "C.E102",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Nguyễn Quốc Huy",
+      "courseId": "841073",
+      "courseName": "Seminar chuyên đề",
+      "courseGroup": "08",
+      "amount": "70",
+      "days": [
+        {
+          "dayOfWeek": 7,
+          "periodStart": 2,
+          "periodTotal": 4,
+          "practiceGroup": "",
+          "room": "C.A304",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Nguyễn Tấn Công",
+      "courseId": "841076",
+      "courseName": "Công nghệ phần mềm nâng cao",
+      "courseGroup": "01",
+      "amount": "70",
+      "days": [
+        {
+          "dayOfWeek": 5,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "",
+          "room": "C.A503",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 5,
+          "periodStart": 8,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.HB403",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "",
+      "courseId": "841099",
+      "courseName": "Khóa luận tốt nghiệp (DCT)",
+      "courseGroup": "01",
+      "amount": "0",
+      "days": [
+        {
+          "dayOfWeek": 0,
+          "periodStart": 0,
+          "periodTotal": 0,
+          "practiceGroup": "",
+          "room": "",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Nguyễn Lê Thanh Trúc",
+      "courseId": "841107",
+      "courseName": "Lập trình Java",
+      "courseGroup": "01",
+      "amount": "50",
+      "days": [
+        {
+          "dayOfWeek": 7,
+          "periodStart": 1,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A302",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 7,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A102",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Nguyễn Lê Thanh Trúc",
+      "courseId": "841107",
+      "courseName": "Lập trình Java",
+      "courseGroup": "02",
+      "amount": "50",
+      "days": [
+        {
+          "dayOfWeek": 6,
+          "periodStart": 6,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A307",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 6,
+          "periodStart": 9,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A110",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Phùng Thái Thiên Trang",
+      "courseId": "841107",
+      "courseName": "Lập trình Java",
+      "courseGroup": "03",
+      "amount": "50",
+      "days": [
+        {
+          "dayOfWeek": 3,
+          "periodStart": 8,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A505",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 4,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A111",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Phùng Thái Thiên Trang",
+      "courseId": "841107",
+      "courseName": "Lập trình Java",
+      "courseGroup": "04",
+      "amount": "50",
+      "days": [
+        {
+          "dayOfWeek": 4,
+          "periodStart": 8,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.B103",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 6,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A106",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Phùng Thái Thiên Trang",
+      "courseId": "841107",
+      "courseName": "Lập trình Java",
+      "courseGroup": "05",
+      "amount": "50",
+      "days": [
+        {
+          "dayOfWeek": 6,
+          "periodStart": 8,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A505",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 3,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A111",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Nguyễn Thanh Sang",
+      "courseId": "841107",
+      "courseName": "Lập trình Java",
+      "courseGroup": "06",
+      "amount": "50",
+      "days": [
+        {
+          "dayOfWeek": 4,
+          "periodStart": 1,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.E302",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 4,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A110",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Nguyễn Thanh Sang",
+      "courseId": "841107",
+      "courseName": "Lập trình Java",
+      "courseGroup": "07",
+      "amount": "50",
+      "days": [
+        {
+          "dayOfWeek": 6,
+          "periodStart": 1,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.B103",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 6,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A110",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Nguyễn Thị Hồng Anh",
+      "courseId": "841107",
+      "courseName": "Lập trình Java",
+      "courseGroup": "08",
+      "amount": "50",
+      "days": [
+        {
+          "dayOfWeek": 2,
+          "periodStart": 3,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A510",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 2,
+          "periodStart": 1,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A110",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Nguyễn Thị Hồng Anh",
+      "courseId": "841107",
+      "courseName": "Lập trình Java",
+      "courseGroup": "09",
+      "amount": "50",
+      "days": [
+        {
+          "dayOfWeek": 2,
+          "periodStart": 8,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A510",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 2,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A105",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Nguyễn Thị Hồng Anh",
+      "courseId": "841107",
+      "courseName": "Lập trình Java",
+      "courseGroup": "10",
+      "amount": "50",
+      "days": [
+        {
+          "dayOfWeek": 3,
+          "periodStart": 8,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A308",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 3,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A102",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Nguyễn Thị Hồng Anh",
+      "courseId": "841107",
+      "courseName": "Lập trình Java",
+      "courseGroup": "11",
+      "amount": "50",
+      "days": [
+        {
+          "dayOfWeek": 5,
+          "periodStart": 1,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A316",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 5,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A111",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Đỗ Ngọc Như Loan",
+      "courseId": "841107",
+      "courseName": "Lập trình Java",
+      "courseGroup": "12",
+      "amount": "50",
+      "days": [
+        {
+          "dayOfWeek": 5,
+          "periodStart": 6,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A505",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 5,
+          "periodStart": 9,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A109",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Đỗ Ngọc Như Loan",
+      "courseId": "841107",
+      "courseName": "Lập trình Java",
+      "courseGroup": "13",
+      "amount": "50",
+      "days": [
+        {
+          "dayOfWeek": 3,
+          "periodStart": 8,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A506",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 3,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A109",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Huỳnh Minh Trí",
+      "courseId": "841108",
+      "courseName": "Cấu trúc dữ liệu và giải thuật",
+      "courseGroup": "01",
+      "amount": "49",
+      "days": [
+        {
+          "dayOfWeek": 5,
+          "periodStart": 3,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A307",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 5,
+          "periodStart": 1,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A107",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Huỳnh Minh Trí",
+      "courseId": "841108",
+      "courseName": "Cấu trúc dữ liệu và giải thuật",
+      "courseGroup": "02",
+      "amount": "49",
+      "days": [
+        {
+          "dayOfWeek": 7,
+          "periodStart": 3,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A308",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 7,
+          "periodStart": 1,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A107",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Huỳnh Minh Trí",
+      "courseId": "841108",
+      "courseName": "Cấu trúc dữ liệu và giải thuật",
+      "courseGroup": "03",
+      "amount": "49",
+      "days": [
+        {
+          "dayOfWeek": 5,
+          "periodStart": 6,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A506",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 5,
+          "periodStart": 9,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A110",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Huỳnh Minh Trí",
+      "courseId": "841108",
+      "courseName": "Cấu trúc dữ liệu và giải thuật",
+      "courseGroup": "04",
+      "amount": "49",
+      "days": [
+        {
+          "dayOfWeek": 4,
+          "periodStart": 6,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A503",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 4,
+          "periodStart": 9,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A110",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Hồ Đắc Quán",
+      "courseId": "841108",
+      "courseName": "Cấu trúc dữ liệu và giải thuật",
+      "courseGroup": "05",
+      "amount": "49",
+      "days": [
+        {
+          "dayOfWeek": 7,
+          "periodStart": 1,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A301",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 7,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A111",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Hồ Đắc Quán",
+      "courseId": "841108",
+      "courseName": "Cấu trúc dữ liệu và giải thuật",
+      "courseGroup": "06",
+      "amount": "49",
+      "days": [
+        {
+          "dayOfWeek": 7,
+          "periodStart": 8,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A301",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 7,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A102",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Nguyễn Hòa",
+      "courseId": "841108",
+      "courseName": "Cấu trúc dữ liệu và giải thuật",
+      "courseGroup": "07",
+      "amount": "49",
+      "days": [
+        {
+          "dayOfWeek": 7,
+          "periodStart": 1,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A307",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 7,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A109",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Nguyễn Hòa",
+      "courseId": "841108",
+      "courseName": "Cấu trúc dữ liệu và giải thuật",
+      "courseGroup": "08",
+      "amount": "49",
+      "days": [
+        {
+          "dayOfWeek": 7,
+          "periodStart": 6,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A302",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 6,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A105",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Vũ Ngọc Thanh Sang",
+      "courseId": "841108",
+      "courseName": "Cấu trúc dữ liệu và giải thuật",
+      "courseGroup": "09",
+      "amount": "49",
+      "days": [
+        {
+          "dayOfWeek": 6,
+          "periodStart": 3,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A501",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 5,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A102",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Vũ Ngọc Thanh Sang",
+      "courseId": "841108",
+      "courseName": "Cấu trúc dữ liệu và giải thuật",
+      "courseGroup": "10",
+      "amount": "49",
+      "days": [
+        {
+          "dayOfWeek": 4,
+          "periodStart": 3,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A502",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 5,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A105",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Vũ Ngọc Thanh Sang",
+      "courseId": "841108",
+      "courseName": "Cấu trúc dữ liệu và giải thuật",
+      "courseGroup": "11",
+      "amount": "49",
+      "days": [
+        {
+          "dayOfWeek": 3,
+          "periodStart": 8,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A501",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 5,
+          "periodStart": 1,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A105",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Vũ Ngọc Thanh Sang",
+      "courseId": "841108",
+      "courseName": "Cấu trúc dữ liệu và giải thuật",
+      "courseGroup": "12",
+      "amount": "49",
+      "days": [
+        {
+          "dayOfWeek": 2,
+          "periodStart": 8,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A315",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 5,
+          "periodStart": 9,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A102",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Vũ Thanh Hiền",
+      "courseId": "841108",
+      "courseName": "Cấu trúc dữ liệu và giải thuật",
+      "courseGroup": "13",
+      "amount": "49",
+      "days": [
+        {
+          "dayOfWeek": 7,
+          "periodStart": 1,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A502",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 7,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A502",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Vũ Thanh Hiền",
+      "courseId": "841108",
+      "courseName": "Cấu trúc dữ liệu và giải thuật",
+      "courseGroup": "14",
+      "amount": "49",
+      "days": [
+        {
+          "dayOfWeek": 7,
+          "periodStart": 8,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A307",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 7,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A106",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Nguyễn Tuấn Đăng",
+      "courseId": "841110",
+      "courseName": "Cơ sở trí tuệ nhân tạo",
+      "courseGroup": "01",
+      "amount": "80",
+      "days": [
+        {
+          "dayOfWeek": 5,
+          "periodStart": 8,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.E102",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 5,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A110",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Nguyễn Tuấn Đăng",
+      "courseId": "841110",
+      "courseName": "Cơ sở trí tuệ nhân tạo",
+      "courseGroup": "02",
+      "amount": "80",
+      "days": [
+        {
+          "dayOfWeek": 7,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A110",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Huỳnh Minh Trí",
+      "courseId": "841110",
+      "courseName": "Cơ sở trí tuệ nhân tạo",
+      "courseGroup": "03",
+      "amount": "80",
+      "days": [
+        {
+          "dayOfWeek": 4,
+          "periodStart": 1,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.E203",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 2,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.HB403",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Huỳnh Minh Trí",
+      "courseId": "841110",
+      "courseName": "Cơ sở trí tuệ nhân tạo",
+      "courseGroup": "04",
+      "amount": "80",
+      "days": [
+        {
+          "dayOfWeek": 2,
+          "periodStart": 1,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.E102",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 4,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.E403",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Phan Tấn Quốc",
+      "courseId": "841110",
+      "courseName": "Cơ sở trí tuệ nhân tạo",
+      "courseGroup": "05",
+      "amount": "80",
+      "days": [
+        {
+          "dayOfWeek": 7,
+          "periodStart": 1,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A016",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 7,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.E402",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Phan Tấn Quốc",
+      "courseId": "841110",
+      "courseName": "Cơ sở trí tuệ nhân tạo",
+      "courseGroup": "06",
+      "amount": "80",
+      "days": [
+        {
+          "dayOfWeek": 7,
+          "periodStart": 8,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A016",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 7,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.E402",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Trần Thanh Nhã",
+      "courseId": "841113",
+      "courseName": "Phát triển phần mềm mã nguồn mở",
+      "courseGroup": "01",
+      "amount": "100",
+      "days": [
+        {
+          "dayOfWeek": 6,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "",
+          "room": "C.C101",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 5,
+          "periodStart": 9,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.E402",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Trần Thanh Nhã",
+      "courseId": "841113",
+      "courseName": "Phát triển phần mềm mã nguồn mở",
+      "courseGroup": "02",
+      "amount": "100",
+      "days": [
+        {
+          "dayOfWeek": 6,
+          "periodStart": 9,
+          "periodTotal": 2,
+          "practiceGroup": "",
+          "room": "C.HTC",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 5,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.E403",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Từ Lãng Phiêu",
+      "courseId": "841113",
+      "courseName": "Phát triển phần mềm mã nguồn mở",
+      "courseGroup": "03",
+      "amount": "100",
+      "days": [
+        {
+          "dayOfWeek": 3,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "",
+          "room": "C.E205",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 4,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.E402",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Từ Lãng Phiêu",
+      "courseId": "841113",
+      "courseName": "Phát triển phần mềm mã nguồn mở",
+      "courseGroup": "04",
+      "amount": "100",
+      "days": [
+        {
+          "dayOfWeek": 3,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "",
+          "room": "C.B109",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 2,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.HB403",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Trương Tấn Khoa",
+      "courseId": "841120",
+      "courseName": "An toàn và bảo mật dữ liệu trong HTTT",
+      "courseGroup": "01",
+      "amount": "70",
+      "days": [
+        {
+          "dayOfWeek": 3,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "",
+          "room": "C.A302",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 2,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A102",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Phan Tấn Quốc",
+      "courseId": "841303",
+      "courseName": "Kỹ thuật lập trình",
+      "courseGroup": "01",
+      "amount": "90",
+      "days": [
+        {
+          "dayOfWeek": 4,
+          "periodStart": 6,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A307",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 6,
+          "periodStart": 1,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A106",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 6,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "02",
+          "room": "C.A110",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Phan Tấn Quốc",
+      "courseId": "841303",
+      "courseName": "Kỹ thuật lập trình",
+      "courseGroup": "02",
+      "amount": "90",
+      "days": [
+        {
+          "dayOfWeek": 2,
+          "periodStart": 1,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A307",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 4,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A102",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 4,
+          "periodStart": 1,
+          "periodTotal": 2,
+          "practiceGroup": "02",
+          "room": "C.A106",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Phan Tấn Quốc",
+      "courseId": "841303",
+      "courseName": "Kỹ thuật lập trình",
+      "courseGroup": "03",
+      "amount": "90",
+      "days": [
+        {
+          "dayOfWeek": 3,
+          "periodStart": 1,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A307",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 5,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A105",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 5,
+          "periodStart": 9,
+          "periodTotal": 2,
+          "practiceGroup": "02",
+          "room": "C.A106",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Hà Thanh Dũng",
+      "courseId": "841303",
+      "courseName": "Kỹ thuật lập trình",
+      "courseGroup": "04",
+      "amount": "45",
+      "days": [
+        {
+          "dayOfWeek": 7,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A105",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 3,
+          "periodStart": 9,
+          "periodTotal": 2,
+          "practiceGroup": "02",
+          "room": "C.A102",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Phạm Hoàng Vương",
+      "courseId": "841303",
+      "courseName": "Kỹ thuật lập trình",
+      "courseGroup": "05",
+      "amount": "90",
+      "days": [
+        {
+          "dayOfWeek": 2,
+          "periodStart": 8,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.E201",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 3,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A110",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 2,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "02",
+          "room": "C.A109",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Phạm Hoàng Vương",
+      "courseId": "841303",
+      "courseName": "Kỹ thuật lập trình",
+      "courseGroup": "06",
+      "amount": "90",
+      "days": [
+        {
+          "dayOfWeek": 7,
+          "periodStart": 3,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.C106",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 7,
+          "periodStart": 1,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A106",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 5,
+          "periodStart": 1,
+          "periodTotal": 2,
+          "practiceGroup": "02",
+          "room": "C.A106",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Trịnh Tấn Đạt",
+      "courseId": "841303",
+      "courseName": "Kỹ thuật lập trình",
+      "courseGroup": "07",
+      "amount": "90",
+      "days": [
+        {
+          "dayOfWeek": 3,
+          "periodStart": 8,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.E205",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 3,
+          "periodStart": 1,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A109",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 3,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "02",
+          "room": "C.A109",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Trịnh Tấn Đạt",
+      "courseId": "841303",
+      "courseName": "Kỹ thuật lập trình",
+      "courseGroup": "08",
+      "amount": "90",
+      "days": [
+        {
+          "dayOfWeek": 2,
+          "periodStart": 8,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.HB406",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 4,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A105",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 6,
+          "periodStart": 9,
+          "periodTotal": 2,
+          "practiceGroup": "02",
+          "room": "C.A102",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Phạm Hoàng Vương",
+      "courseId": "841308",
+      "courseName": "Khai phá dữ liệu",
+      "courseGroup": "01",
+      "amount": "80",
+      "days": [
+        {
+          "dayOfWeek": 6,
+          "periodStart": 1,
+          "periodTotal": 2,
+          "practiceGroup": "",
+          "room": "C.E102",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 2,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.E402",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Trịnh Tấn Đạt",
+      "courseId": "841308",
+      "courseName": "Khai phá dữ liệu",
+      "courseGroup": "02",
+      "amount": "80",
+      "days": [
+        {
+          "dayOfWeek": 2,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "",
+          "room": "C.A016",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 3,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.E402",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Vũ Ngọc Thanh Sang",
+      "courseId": "841308",
+      "courseName": "Khai phá dữ liệu",
+      "courseGroup": "03",
+      "amount": "80",
+      "days": [
+        {
+          "dayOfWeek": 4,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "",
+          "room": "C.B109",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 6,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.HB403",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Vũ Ngọc Thanh Sang",
+      "courseId": "841308",
+      "courseName": "Khai phá dữ liệu",
+      "courseGroup": "04",
+      "amount": "80",
+      "days": [
+        {
+          "dayOfWeek": 6,
+          "periodStart": 1,
+          "periodTotal": 2,
+          "practiceGroup": "",
+          "room": "C.E203",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 4,
+          "periodStart": 9,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.HB403",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Lương Minh Huấn",
+      "courseId": "841404",
+      "courseName": "Mạng máy tính",
+      "courseGroup": "01",
+      "amount": "90",
+      "days": [
+        {
+          "dayOfWeek": 2,
+          "periodStart": 1,
+          "periodTotal": 2,
+          "practiceGroup": "",
+          "room": "C.E402",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 7,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A111",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 4,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "02",
+          "room": "C.A102",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Lương Minh Huấn",
+      "courseId": "841404",
+      "courseName": "Mạng máy tính",
+      "courseGroup": "02",
+      "amount": "90",
+      "days": [
+        {
+          "dayOfWeek": 3,
+          "periodStart": 8,
+          "periodTotal": 2,
+          "practiceGroup": "",
+          "room": "C.E402",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 7,
+          "periodStart": 8,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A102",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 2,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "02",
+          "room": "C.A106",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Cổ Tồn Minh Đăng",
+      "courseId": "841404",
+      "courseName": "Mạng máy tính",
+      "courseGroup": "03",
+      "amount": "45",
+      "days": [
+        {
+          "dayOfWeek": 2,
+          "periodStart": 9,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A109",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 6,
+          "periodStart": 1,
+          "periodTotal": 2,
+          "practiceGroup": "02",
+          "room": "C.A110",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Cổ Tồn Minh Đăng",
+      "courseId": "841404",
+      "courseName": "Mạng máy tính",
+      "courseGroup": "04",
+      "amount": "90",
+      "days": [
+        {
+          "dayOfWeek": 2,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "",
+          "room": "C.E403",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 4,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A110",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 6,
+          "periodStart": 9,
+          "periodTotal": 2,
+          "practiceGroup": "02",
+          "room": "C.A105",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Nguyễn Quốc Phong",
+      "courseId": "841404",
+      "courseName": "Mạng máy tính",
+      "courseGroup": "05",
+      "amount": "90",
+      "days": [
+        {
+          "dayOfWeek": 3,
+          "periodStart": 1,
+          "periodTotal": 2,
+          "practiceGroup": "",
+          "room": "C.E402",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 5,
+          "periodStart": 1,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A109",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 5,
+          "periodStart": 3,
+          "periodTotal": 2,
+          "practiceGroup": "02",
+          "room": "C.A106",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Nguyễn Quốc Phong",
+      "courseId": "841404",
+      "courseName": "Mạng máy tính",
+      "courseGroup": "06",
+      "amount": "90",
+      "days": [
+        {
+          "dayOfWeek": 3,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "",
+          "room": "C.E402",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 5,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A106",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 2,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "02",
+          "room": "C.A102",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Nguyễn Quốc Phong",
+      "courseId": "841404",
+      "courseName": "Mạng máy tính",
+      "courseGroup": "07",
+      "amount": "90",
+      "days": [
+        {
+          "dayOfWeek": 2,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "",
+          "room": "C.E403",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 7,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A109",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 7,
+          "periodStart": 9,
+          "periodTotal": 2,
+          "practiceGroup": "02",
+          "room": "C.A106",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Nguyễn Quốc Phong",
+      "courseId": "841404",
+      "courseName": "Mạng máy tính",
+      "courseGroup": "08",
+      "amount": "90",
+      "days": [
+        {
+          "dayOfWeek": 2,
+          "periodStart": 1,
+          "periodTotal": 2,
+          "practiceGroup": "",
+          "room": "C.E403",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 7,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A105",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 3,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "02",
+          "room": "C.A105",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Trần Thanh Bình",
+      "courseId": "841405",
+      "courseName": "Xác suất thống kê",
+      "courseGroup": "01",
+      "amount": "110",
+      "days": [
+        {
+          "dayOfWeek": 4,
+          "periodStart": 1,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "2.B201",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Lê Minh Tuấn",
+      "courseId": "841405",
+      "courseName": "Xác suất thống kê",
+      "courseGroup": "02",
+      "amount": "110",
+      "days": [
+        {
+          "dayOfWeek": 5,
+          "periodStart": 1,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "2.B201",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Lê Minh Tuấn",
+      "courseId": "841405",
+      "courseName": "Xác suất thống kê",
+      "courseGroup": "03",
+      "amount": "110",
+      "days": [
+        {
+          "dayOfWeek": 6,
+          "periodStart": 6,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "2.B201",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Trần Đức Thành",
+      "courseId": "841405",
+      "courseName": "Xác suất thống kê",
+      "courseGroup": "04",
+      "amount": "110",
+      "days": [
+        {
+          "dayOfWeek": 3,
+          "periodStart": 6,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "2.B202",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Trần Đức Thành",
+      "courseId": "841405",
+      "courseName": "Xác suất thống kê",
+      "courseGroup": "05",
+      "amount": "110",
+      "days": [
+        {
+          "dayOfWeek": 4,
+          "periodStart": 1,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "2.B203",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Trần Đức Thành",
+      "courseId": "841405",
+      "courseName": "Xác suất thống kê",
+      "courseGroup": "06",
+      "amount": "110",
+      "days": [
+        {
+          "dayOfWeek": 3,
+          "periodStart": 1,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "2.B304",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Phan Trung Hiếu",
+      "courseId": "841406",
+      "courseName": "Giải tích 2",
+      "courseGroup": "01",
+      "amount": "110",
+      "days": [
+        {
+          "dayOfWeek": 3,
+          "periodStart": 6,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "2.B304",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Phan Trung Hiếu",
+      "courseId": "841406",
+      "courseName": "Giải tích 2",
+      "courseGroup": "02",
+      "amount": "110",
+      "days": [
+        {
+          "dayOfWeek": 3,
+          "periodStart": 3,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "2.B004",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Phan Trung Hiếu",
+      "courseId": "841406",
+      "courseName": "Giải tích 2",
+      "courseGroup": "03",
+      "amount": "110",
+      "days": [
+        {
+          "dayOfWeek": 2,
+          "periodStart": 1,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "2.A202",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Trần Thanh Bình",
+      "courseId": "841406",
+      "courseName": "Giải tích 2",
+      "courseGroup": "04",
+      "amount": "110",
+      "days": [
+        {
+          "dayOfWeek": 3,
+          "periodStart": 1,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "2.C006",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Bùi Đình Thắng",
+      "courseId": "841406",
+      "courseName": "Giải tích 2",
+      "courseGroup": "05",
+      "amount": "110",
+      "days": [
+        {
+          "dayOfWeek": 2,
+          "periodStart": 1,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "2.A104",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Trần Thanh Nhã",
+      "courseId": "841407",
+      "courseName": "Các hệ quản trị cơ sở dữ liệu",
+      "courseGroup": "01",
+      "amount": "50",
+      "days": [
+        {
+          "dayOfWeek": 6,
+          "periodStart": 6,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.B103",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 6,
+          "periodStart": 1,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A111",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Trần Thanh Nhã",
+      "courseId": "841407",
+      "courseName": "Các hệ quản trị cơ sở dữ liệu",
+      "courseGroup": "02",
+      "amount": "50",
+      "days": [
+        {
+          "dayOfWeek": 5,
+          "periodStart": 6,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A316",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 5,
+          "periodStart": 2,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A102",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Trương Tấn Khoa",
+      "courseId": "841407",
+      "courseName": "Các hệ quản trị cơ sở dữ liệu",
+      "courseGroup": "03",
+      "amount": "50",
+      "days": [
+        {
+          "dayOfWeek": 3,
+          "periodStart": 8,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.E604",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 3,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A102",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Trương Tấn Khoa",
+      "courseId": "841407",
+      "courseName": "Các hệ quản trị cơ sở dữ liệu",
+      "courseGroup": "04",
+      "amount": "50",
+      "days": [
+        {
+          "dayOfWeek": 2,
+          "periodStart": 1,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A501",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 3,
+          "periodStart": 1,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A102",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Nguyễn Lê Thanh Trúc",
+      "courseId": "841408",
+      "courseName": "Kiểm thử phần mềm",
+      "courseGroup": "01",
+      "amount": "95",
+      "days": [
+        {
+          "dayOfWeek": 6,
+          "periodStart": 1,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.E402",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 6,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.E402",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Nguyễn Võ Lam Giang",
+      "courseId": "841410",
+      "courseName": "An ninh mạng máy tính",
+      "courseGroup": "01",
+      "amount": "75",
+      "days": [
+        {
+          "dayOfWeek": 2,
+          "periodStart": 6,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.E305",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 2,
+          "periodStart": 9,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.E403",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Huỳnh Nguyễn Khắc Huy",
+      "courseId": "841413",
+      "courseName": "Cơ sở dữ liệu phân tán",
+      "courseGroup": "01",
+      "amount": "75",
+      "days": [
+        {
+          "dayOfWeek": 4,
+          "periodStart": 8,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.E102",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 4,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.HB403",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Nguyễn Hòa",
+      "courseId": "841414",
+      "courseName": "Thiết kế và phân tích giải thuật",
+      "courseGroup": "01",
+      "amount": "95",
+      "days": [
+        {
+          "dayOfWeek": 2,
+          "periodStart": 1,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "2.C006",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Nguyễn Hòa",
+      "courseId": "841414",
+      "courseName": "Thiết kế và phân tích giải thuật",
+      "courseGroup": "02",
+      "amount": "95",
+      "days": [
+        {
+          "dayOfWeek": 2,
+          "periodStart": 6,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "2.B202",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Nguyễn Hòa",
+      "courseId": "841414",
+      "courseName": "Thiết kế và phân tích giải thuật",
+      "courseGroup": "03",
+      "amount": "95",
+      "days": [
+        {
+          "dayOfWeek": 3,
+          "periodStart": 8,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "2.C006",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Nguyễn Hòa",
+      "courseId": "841414",
+      "courseName": "Thiết kế và phân tích giải thuật",
+      "courseGroup": "04",
+      "amount": "95",
+      "days": [
+        {
+          "dayOfWeek": 6,
+          "periodStart": 1,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.HTC",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Nguyễn Hòa",
+      "courseId": "841414",
+      "courseName": "Thiết kế và phân tích giải thuật",
+      "courseGroup": "05",
+      "amount": "95",
+      "days": [
+        {
+          "dayOfWeek": 4,
+          "periodStart": 1,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.HTC",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Nguyễn Hòa",
+      "courseId": "841414",
+      "courseName": "Thiết kế và phân tích giải thuật",
+      "courseGroup": "06",
+      "amount": "95",
+      "days": [
+        {
+          "dayOfWeek": 6,
+          "periodStart": 8,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "2.B303",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Trịnh Tấn Đạt",
+      "courseId": "841422",
+      "courseName": "Ngôn ngữ lập trình Python",
+      "courseGroup": "01",
+      "amount": "90",
+      "days": [
+        {
+          "dayOfWeek": 4,
+          "periodStart": 8,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.E402",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 2,
+          "periodStart": 1,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A102",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 2,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "02",
+          "room": "C.A109",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Trịnh Tấn Đạt",
+      "courseId": "841422",
+      "courseName": "Ngôn ngữ lập trình Python",
+      "courseGroup": "02",
+      "amount": "90",
+      "days": [
+        {
+          "dayOfWeek": 5,
+          "periodStart": 8,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.E403",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 6,
+          "periodStart": 1,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A102",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 3,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "02",
+          "room": "C.A110",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Hà Thanh Dũng",
+      "courseId": "841422",
+      "courseName": "Ngôn ngữ lập trình Python",
+      "courseGroup": "03",
+      "amount": "90",
+      "days": [
+        {
+          "dayOfWeek": 2,
+          "periodStart": 8,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.HTC",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 2,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A111",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 7,
+          "periodStart": 1,
+          "periodTotal": 2,
+          "practiceGroup": "02",
+          "room": "C.A109",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Hà Thanh Dũng",
+      "courseId": "841422",
+      "courseName": "Ngôn ngữ lập trình Python",
+      "courseGroup": "04",
+      "amount": "90",
+      "days": [
+        {
+          "dayOfWeek": 3,
+          "periodStart": 6,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.HTC",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 3,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A105",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 2,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "02",
+          "room": "C.A105",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Phạm Thi Vương",
+      "courseId": "841434",
+      "courseName": "Thương mại điện tử và ứng dụng",
+      "courseGroup": "01",
+      "amount": "90",
+      "days": [
+        {
+          "dayOfWeek": 6,
+          "periodStart": 6,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.HTC",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 6,
+          "periodStart": 9,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.E402",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Nguyễn Võ Lam Giang",
+      "courseId": "841438",
+      "courseName": "Lập trình ứng dụng mạng",
+      "courseGroup": "01",
+      "amount": "75",
+      "days": [
+        {
+          "dayOfWeek": 6,
+          "periodStart": 8,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.E305",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 6,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.E403",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Lương Minh Huấn",
+      "courseId": "841440",
+      "courseName": "Phân tích và thiết kế mạng máy tính",
+      "courseGroup": "01",
+      "amount": "70",
+      "days": [
+        {
+          "dayOfWeek": 2,
+          "periodStart": 6,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A502",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 3,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A106",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Vũ Ngọc Thanh Sang",
+      "courseId": "841446",
+      "courseName": "Phân tích và xử lý ảnh",
+      "courseGroup": "01",
+      "amount": "75",
+      "days": [
+        {
+          "dayOfWeek": 5,
+          "periodStart": 1,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.E305",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 5,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.HB403",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Trịnh Tấn Đạt",
+      "courseId": "841447",
+      "courseName": "Khai thác dữ liệu và ứng dụng",
+      "courseGroup": "01",
+      "amount": "75",
+      "days": [
+        {
+          "dayOfWeek": 4,
+          "periodStart": 3,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.PHA",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 5,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.HB403",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Huỳnh Minh Trí",
+      "courseId": "841456",
+      "courseName": "Công nghệ tri thức",
+      "courseGroup": "01",
+      "amount": "70",
+      "days": [
+        {
+          "dayOfWeek": 7,
+          "periodStart": 8,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A304",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 7,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A107",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Phan Nguyệt Minh",
+      "courseId": "841462",
+      "courseName": "Phát triển ứng dụng trên thiết bị di động",
+      "courseGroup": "01",
+      "amount": "95",
+      "days": [
+        {
+          "dayOfWeek": 7,
+          "periodStart": 8,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.HB406",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 7,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.HB406",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Nguyễn Thanh Sang",
+      "courseId": "841464",
+      "courseName": "Lập trình Web và ứng dụng nâng cao",
+      "courseGroup": "01",
+      "amount": "50",
+      "days": [
+        {
+          "dayOfWeek": 4,
+          "periodStart": 8,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.E306",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 4,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A106",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Nguyễn Thanh Sang",
+      "courseId": "841464",
+      "courseName": "Lập trình Web và ứng dụng nâng cao",
+      "courseGroup": "02",
+      "amount": "50",
+      "days": [
+        {
+          "dayOfWeek": 3,
+          "periodStart": 6,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.E204",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 3,
+          "periodStart": 9,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A106",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Nguyễn Thanh Sang",
+      "courseId": "841464",
+      "courseName": "Lập trình Web và ứng dụng nâng cao",
+      "courseGroup": "03",
+      "amount": "50",
+      "days": [
+        {
+          "dayOfWeek": 6,
+          "periodStart": 8,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A308",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 6,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A102",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Nguyễn Thanh Sang",
+      "courseId": "841464",
+      "courseName": "Lập trình Web và ứng dụng nâng cao",
+      "courseGroup": "04",
+      "amount": "50",
+      "days": [
+        {
+          "dayOfWeek": 2,
+          "periodStart": 6,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A314",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 2,
+          "periodStart": 9,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A106",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Cao Thái Phương Thanh",
+      "courseId": "841464",
+      "courseName": "Lập trình Web và ứng dụng nâng cao",
+      "courseGroup": "05",
+      "amount": "50",
+      "days": [
+        {
+          "dayOfWeek": 7,
+          "periodStart": 3,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A505",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 7,
+          "periodStart": 1,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.E403",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Từ Lãng Phiêu",
+      "courseId": "841464",
+      "courseName": "Lập trình Web và ứng dụng nâng cao",
+      "courseGroup": "06",
+      "amount": "50",
+      "days": [
+        {
+          "dayOfWeek": 6,
+          "periodStart": 3,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.A316",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 6,
+          "periodStart": 9,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A106",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Mai Vân Phương Vũ",
+      "courseId": "841480",
+      "courseName": "Xây dựng phần mềm theo mô hình phân lớp\n(2020)",
+      "courseGroup": "01",
+      "amount": "100",
+      "days": [
+        {
+          "dayOfWeek": 4,
+          "periodStart": 3,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.B109",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 4,
+          "periodStart": 1,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.C107",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Mai Vân Phương Vũ",
+      "courseId": "841480",
+      "courseName": "Xây dựng phần mềm theo mô hình phân lớp\n(2020)",
+      "courseGroup": "02",
+      "amount": "100",
+      "days": [
+        {
+          "dayOfWeek": 5,
+          "periodStart": 1,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.E402",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 5,
+          "periodStart": 4,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.E402",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Văn Thế Thành",
+      "courseId": "841480",
+      "courseName": "Xây dựng phần mềm theo mô hình phân lớp\n(2020)",
+      "courseGroup": "03",
+      "amount": "100",
+      "days": [
+        {
+          "dayOfWeek": 7,
+          "periodStart": 3,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.HTC",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 7,
+          "periodStart": 1,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.A110",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Cao Minh Thành",
+      "courseId": "841480",
+      "courseName": "Xây dựng phần mềm theo mô hình phân lớp\n(2020)",
+      "courseGroup": "04",
+      "amount": "100",
+      "days": [
+        {
+          "dayOfWeek": 3,
+          "periodStart": 3,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.E403",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 3,
+          "periodStart": 1,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.E403",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Huỳnh Hồ Thị Mộng Trinh",
+      "courseId": "841481",
+      "courseName": "Thiết kế giao diện",
+      "courseGroup": "01",
+      "amount": "100",
+      "days": [
+        {
+          "dayOfWeek": 5,
+          "periodStart": 8,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.E205",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 5,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.E403",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    },
+    {
+      "teacherName": "Phạm Thi Vương",
+      "courseId": "841481",
+      "courseName": "Thiết kế giao diện",
+      "courseGroup": "02",
+      "amount": "100",
+      "days": [
+        {
+          "dayOfWeek": 5,
+          "periodStart": 8,
+          "periodTotal": 3,
+          "practiceGroup": "",
+          "room": "C.B109",
+          "totalWeek": "123456789012345----"
+        },
+        {
+          "dayOfWeek": 5,
+          "periodStart": 6,
+          "periodTotal": 2,
+          "practiceGroup": "01",
+          "room": "C.E402",
+          "totalWeek": "123456789012345----"
+        }
+      ]
+    }
+  ]
+}

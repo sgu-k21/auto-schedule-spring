@@ -50,7 +50,7 @@ spring:
     import: optional:configtree:/run/secrets/ , optional:file:.env[.properties]
   application:
     name: "timetable_schedule"
-#    datasource:
+  #    datasource:
 #     url: jdbc:h2:mem:db_dev
 #     driver-class-name: org.post.Driver
   # #    url: jdbc:mysql://${DB_HOST}:${DB_PORT}/${DB_NAME}
@@ -69,6 +69,11 @@ spring:
     hibernate:
       ddl-auto: ${DB_HIBERNATE_DDL_AUTO}
     database: postgresql
+    properties:
+      hibernate:
+        cache:
+          use_query_cache: false
+
 
 
 

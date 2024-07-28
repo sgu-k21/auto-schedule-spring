@@ -5,39 +5,39 @@ import sys
 import re
 
 header_chung = {
-    'gv': 'Họ và tên',
-    'mmh': 'Mã MH',
-    'tmh': 'Tên môn học',
-    'nmh': 'NH',
-    'so_luong': 'Số SV',
+    'teacherName': 'Họ và tên',
+    'courseId': 'Mã MH',
+    'courseName': 'Tên môn học',
+    'courseGroup': 'NH',
+    'amount': 'Số SV',
 }
 
 header_day = {
-    'thu': 'Thứ',
-    'tbd': 'Tiết\nBĐ',
-    'st': 'Số tiết'
+    'dayOfWeek': 'Thứ',
+    'periodStart': 'Tiết\nBĐ',
+    'periodTotal': 'Số tiết'
 }
 
 
 
 header_day_no_valid_chung = {
-    'tth': 'Tổ TH',
-    'lop': 'Phòng',
-    'tuan': 'Thời gian học'
+    'practiceGroup': 'Tổ TH',
+    'room': 'Phòng',
+    'totalWeek': 'Thời gian học'
 }
 
 header_day_no_valid_chuyen = {
-    'tth': 'Tổ TH',
-    'lop': 'Mã phòng',
-    'tuan': 'Tuần học'
+    'practiceGroup': 'Tổ TH',
+    'room': 'Mã phòng',
+    'totalWeek': 'Tuần học'
 }
 
 header_chuyen = {
-    'gv': 'Họ và tên',
-    'mmh': 'Mã MH',
-    'tmh': 'Tên môn học',
-    'nmh': 'Nhóm',
-    'so_luong': 'Sỉ số',
+    'teacherName': 'Họ và tên',
+    'courseId': 'Mã MH',
+    'courseName': 'Tên môn học',
+    'courseGroup': 'Nhóm',
+    'amount': 'Sỉ số',
 }
 
 
@@ -177,6 +177,7 @@ with pdfplumber.open(pdf_path) as pdf:
                 for key, value in map_th.items():
                     day[key] = row[value]
                 # print(day)
+                count+=1
 
 
 
@@ -200,13 +201,14 @@ with pdfplumber.open(pdf_path) as pdf:
                 course = row_info
                 course['days'] = []
             
-            if row_info['nmh'] != None and (row_info['nmh'] != course['nmh'] or row_info['mmh'] != course['mmh']):
+            if row_info['courseGroup'] != None and (row_info['courseGroup'] != course['courseGroup'] or row_info['courseId'] != course['courseId']):
                 schedule.append(course)
                 added = True
                 course = row_info
                 course['days'] = []
 
             course['days'].append(day)
+            # count+=1
 
             # Fix last row not add in pdf (chung type)
             if row_num == len(tables) - 1 and not added:

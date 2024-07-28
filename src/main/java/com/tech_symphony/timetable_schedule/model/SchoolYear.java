@@ -1,28 +1,28 @@
 package com.tech_symphony.timetable_schedule.model;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotNull;
 import lombok.Getter;
 import lombok.Setter;
 import org.hibernate.annotations.ColumnDefault;
+import org.hibernate.annotations.CreationTimestamp;
+import org.springframework.boot.context.properties.bind.DefaultValue;
 
 import java.time.LocalDate;
-import java.time.OffsetDateTime;
+import java.time.OffsetTime;
 import java.util.LinkedHashSet;
 import java.util.Set;
 
 @Getter
 @Setter
 @Entity
-@Table(name = "\"SchoolYear\"", indexes = {
-        @Index(name = "SchoolYear_from_to_start_at_period_key", columnList = "from, to, start_at, period", unique = true)
-})
+@Table(name = "school_year")
+@JsonIgnoreProperties({ "course" })
 public class SchoolYear {
     @Id
-    @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "SchoolYear_id_gen")
-    @SequenceGenerator(name = "SchoolYear_id_gen", sequenceName = "days_id_seq", allocationSize = 1)
     @Column(name = "id", nullable = false)
-    private Long id;
+    private Short id;
 
     @Column(name = "title", length = Integer.MAX_VALUE)
     private String title;
@@ -35,17 +35,16 @@ public class SchoolYear {
     @Column(name = "\"to\"", nullable = false)
     private Short to;
 
-    @Column(name = "start_at")
-    private LocalDate startAt;
-
-    @NotNull
-    @ColumnDefault("now()")
-    @Column(name = "created_at", nullable = false)
-    private OffsetDateTime createdAt;
-
     @NotNull
     @Column(name = "period", nullable = false)
     private Short period;
+
+    @Column(name = "start_at")
+    private LocalDate startAt;
+
+    @Column(name = "created_at")
+    @CreationTimestamp
+    private OffsetTime createdAt;
 
     @OneToMany(mappedBy = "year")
     private Set<Course> courses = new LinkedHashSet<>();

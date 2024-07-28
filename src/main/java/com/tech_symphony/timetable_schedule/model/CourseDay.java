@@ -1,25 +1,23 @@
 package com.tech_symphony.timetable_schedule.model;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotNull;
 import lombok.Getter;
 import lombok.Setter;
 import org.hibernate.annotations.ColumnDefault;
-import org.hibernate.annotations.OnDelete;
-import org.hibernate.annotations.OnDeleteAction;
+import org.hibernate.annotations.CreationTimestamp;
 
-import java.time.OffsetDateTime;
+import java.time.OffsetTime;
 
 @Getter
 @Setter
 @Entity
-@Table(name = "\"CourseDay\"", uniqueConstraints = {
-        @UniqueConstraint(name = "days_id_key", columnNames = {"id"})
-})
+@Table(name = "course_day")
+@JsonIgnoreProperties("course")
 public class CourseDay {
     @Id
-    @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "CourseDay_id_gen")
-    @SequenceGenerator(name = "CourseDay_id_gen", sequenceName = "days_id_seq1", allocationSize = 1)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id", nullable = false)
     private Long id;
 
@@ -41,15 +39,16 @@ public class CourseDay {
     @Column(name = "room", length = Integer.MAX_VALUE)
     private String room;
 
+    @Column(name = "total_week", length = Integer.MAX_VALUE)
+    private String totalWeek;
+
     @NotNull
     @ManyToOne(fetch = FetchType.LAZY, optional = false)
-    @OnDelete(action = OnDeleteAction.CASCADE)
     @JoinColumn(name = "course_id", nullable = false)
     private Course course;
 
-    @NotNull
-    @ColumnDefault("now()")
-    @Column(name = "created_at", nullable = false)
-    private OffsetDateTime createdAt;
+    @CreationTimestamp
+    @Column(name = "created_at")
+    private OffsetTime createdAt;
 
 }
