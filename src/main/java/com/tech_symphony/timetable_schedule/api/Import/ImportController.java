@@ -42,7 +42,7 @@ public class ImportController {
         if (year.isEmpty()) throw new IllegalArgumentException("Invalid year");
         ObjectMapper mapper = new ObjectMapper();
         mapper.configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
-        String fileValue = fileService.readFileFromResources("/python/schedule_chung_3_2023_2024.json");
+        String fileValue = fileService.readFileFromResources("/python/schedule_cntt_3_2023_2024.json");
         JsonNode json =  mapper.readTree(fileValue);
         List<JsonNode> scheduler = mapper.readValue(json.get("scheduler").toString(), new TypeReference<List<JsonNode>>(){});
         int count = 0;
@@ -55,6 +55,8 @@ public class ImportController {
                     courseRepository.save(course);
                 else
                     course = courseFind;
+
+                courseDayRepository.deleteAll(course.getCourseDays());
 
                 List<CourseDay> courseDays = mapper.readValue(schedulerNode.get("days").toString(), new TypeReference<List<CourseDay>>(){} );
 //                return courseDays;

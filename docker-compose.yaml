@@ -1,0 +1,10 @@
+version: '3.7'
+services:
+  app:
+    container_name: env_demo
+    build: .
+    platform: linux/amd64
+    env_file:
+      - .env
+    ports:
+      - "8080:8081"
